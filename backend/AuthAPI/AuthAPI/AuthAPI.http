@@ -1,0 +1,6 @@
+@AuthAPI_HostAddress = http://localhost:5068
+
+GET {{AuthAPI_HostAddress}}/test/
+Accept: application/json
+
+###
